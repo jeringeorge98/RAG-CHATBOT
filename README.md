@@ -58,30 +58,7 @@ By following these flows, the AI chatbot is transformed into the **RAG chatbot**
 ## Document
 
 Please Refer this [document] ([https://drive.google.com/file/d/1Nm5JMvoH9CSqL7z9ewsExFF0sdbxUmBq/view?usp=sharing]) to see more details.
-## Demo
 
-**I. Use Case 1** – Personalized Q&A Chatbot
-
-<table>
-   <tr>
-    <td style="vertical-align: top; width: 50%;">
-    <img width="1326" height="381" alt="usecase1" src="https://github.com/user-attachments/assets/2ecb1b7a-c340-417f-acc9-ed477180e32a" />
-    <img width="1326" height="381" alt="usecase_1 2" src="https://github.com/user-attachments/assets/4074e520-d37c-4cac-969b-3bb926f1fff3" />
-    </td>
-  
-
-   </tr> 
-</table>
-
-**II. Use Case 2** – Automated Immigration Updates
-<table>
-
- <td style="vertical-align: top; width: 50%;">
-     
-   <img width="1002" height="624" alt="usecase_2" src="https://github.com/user-attachments/assets/62cee4d1-aa37-4962-a5e0-0677468b3b8c" />
-   </td>
-
-   </table>
 
 
 
