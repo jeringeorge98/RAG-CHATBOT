@@ -49,7 +49,7 @@ By following these flows, the AI chatbot is transformed into the **RAG chatbot**
 
 ## Document
 
-
+Please Refer this [document] ([https://drive.google.com/file/d/1Nm5JMvoH9CSqL7z9ewsExFF0sdbxUmBq/view?usp=sharing]) to see more details.
 ## Demo
 
 **I. Use Case 1** – Personalized Q&A Chatbot
