@@ -24,9 +24,17 @@ The AWS services I used in this project were Amazon Bedrock, S3, and OpenSearch 
 
 **I. Use Case 1** – Personalized Q&A Chatbot for thesis
 
+<img width="1326" height="381" alt="usecase1" src="https://github.com/user-attachments/assets/a55ce205-a3b0-488f-8424-aef65dcec9c2" />
+
+
+<img width="1326" height="381" alt="usecase_1 2" src="https://github.com/user-attachments/assets/c731ed4e-8f54-45bf-8089-fe65e79930a8" />
+
 
 
 **II. Use Case 2** – Financial News Updates
+
+
+<img width="1002" height="624" alt="usecase_2" src="https://github.com/user-attachments/assets/3e5aaa74-05df-47b4-ad18-e8dbf3159c55" />
 
 
 
@@ -56,20 +64,24 @@ Please Refer this [document] ([https://drive.google.com/file/d/1Nm5JMvoH9CSqL7z9
 
 <table>
    <tr>
-      <!-- Left Side -->
-<!--       <td style="vertical-align: top; width: 50%;">
-         <img src="https://github.com/user-attachments/assets/d93f0aa7-f96c-44b5-b744-cdaae4ee0f1e" width="100%" />
-         <img src="https://github.com/user-attachments/assets/d4971f5b-3d81-4f96-b3eb-a7b11df66e94" width="100%" />
-      </td>
-      <!-- Right Side -->
-<!--       <td style="vertical-align: top; width: 50%;">
-         <img src="https://github.com/user-attachments/assets/0caef54c-5e57-407a-b311-90f9f2980793" width="100%" />
-         <img src="https://github.com/user-attachments/assets/bfaecd97-1d23-4181-aea3-0a2b45dc9f54" width="100%" />
-      </td> -->
+    <td style="vertical-align: top; width: 50%;">
+    <img width="1326" height="381" alt="usecase1" src="https://github.com/user-attachments/assets/2ecb1b7a-c340-417f-acc9-ed477180e32a" />
+    <img width="1326" height="381" alt="usecase_1 2" src="https://github.com/user-attachments/assets/4074e520-d37c-4cac-969b-3bb926f1fff3" />
+    </td>
+  
+
    </tr> 
 </table>
 
 **II. Use Case 2** – Automated Immigration Updates
+<table>
+
+ <td style="vertical-align: top; width: 50%;">
+     
+   <img width="1002" height="624" alt="usecase_2" src="https://github.com/user-attachments/assets/62cee4d1-aa37-4962-a5e0-0677468b3b8c" />
+   </td>
+
+   </table>
 
 
 
